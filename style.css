@@ -17,3 +17,56 @@ h2 {
     text-align:right;
 }
 
+ .minhaslista {
+    color:witesmoke;
+    font-size: 30;
+
+}
+
+.lista {
+   background:black
+
+}
+
+.imagem {
+   text-align:center;
+   background:black
+
+}
+
+#imagem {
+    background:black
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+    border-top-left-radius: 25px;
+    border-top-right-radiys: 25px;
+    border-bottom-left-radius: 25px;
+
+.cabecalho {
+    border-bottom-style: solid;
+    backgroud: greenyellow;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px:
+    padding: 1px;
+}
+
+#cabecalho2 {
+   color: blue
+   text-align: center;
+
+}
+
+#menu {
+   text-aligen: center;
+   font-size: 30;
+
+}
+
+.rodape {
+   border-top-style: solid;
+   background: greenyellow
+   margin-bottom: -8px;
+
+    
